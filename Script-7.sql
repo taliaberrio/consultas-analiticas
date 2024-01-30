@@ -1,3 +1,4 @@
+--- 
 create table categorias (
 id 	serial primary key,
 nombre varchar (50) not null
